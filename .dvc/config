@@ -1,0 +1,4 @@
+[core]
+    autostage = true
+['remote "origin"']
+    url = https://dagshub.com/rachmanto.rian/anime-recommender-svd.dvc
